@@ -9,6 +9,7 @@ Current plugins:
 - `docs`
 - `release`
 - `understand-me`
+- `spec`
 
 ## Marketplace usage
 
@@ -35,13 +36,14 @@ Install `session`:
 /reload-plugins
 ```
 
-For other plugins, replace `session` with one of: `dev`, `docs`, `release`, `understand-me`.
+For other plugins, replace `session` with one of: `dev`, `docs`, `release`, `understand-me`, `spec`.
 
 - `session`: `plugins/session/README.md`
 - `dev`: `plugins/dev/README.md`
 - `docs`: `plugins/docs/README.md`
 - `release`: `plugins/release/README.md`
 - `understand-me`: `plugins/understand-me/README.md`
+- `spec`: `plugins/spec/README.md`
 
 ## Repository structure
 
@@ -52,7 +54,9 @@ claude-codeasier/
     ├── session/
     ├── dev/
     ├── docs/
-    └── release/
+    ├── release/
+    ├── understand-me/
+    └── spec/
 ```
 
 ## Marketplace name

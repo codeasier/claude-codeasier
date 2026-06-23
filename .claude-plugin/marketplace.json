@@ -29,6 +29,11 @@
       "name": "understand-me",
       "description": "Thinking-partner workflow for understanding, challenging, and refining ideas through explicit design decision trees.",
       "source": "./plugins/understand-me"
+    },
+    {
+      "name": "spec",
+      "description": "Spec-driven development workflow for writing and executing approved spec packages.",
+      "source": "./plugins/spec"
     }
   ]
 }
